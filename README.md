@@ -4,13 +4,12 @@
 ## 👥 Team Information / 小組基本資訊
 * **Group Number / 小組組號:** Group 26 
 * **Members / 成員姓名:** 111A50012 楊書雅 (Shu-Ya Yang), 113370216 彭佳淳 (Chia-Chun Peng)
-  
-## Presentation Video
-https://youtu.be/lycv5PV_-ss
 
 ## Project Repository
 https://github.com/t111a50012/project-cycle-3
-
+  
+## Presentation Video
+https://youtu.be/lycv5PV_-ss
 ---
 
 ## 🎯 Selected Research Question / 所選的研究問題
