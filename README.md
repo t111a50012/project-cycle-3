@@ -55,9 +55,11 @@ We developed a rigorous data science and statistical pipeline:
    針對關鍵欄位執行完全個案剔除法 (`.dropna()`)以排除缺失值與無效代碼，確保分析底冊的同步性，並將乾淨數據導出為 `yrbs_cleaned.csv`。
    
 2. **Exploratory Data Analysis / 探索性資料分析:** Aggregated descriptive conditional proportions ($\hat{p}$) and developed a **Multi-Dimensional Matrix Heatmap** to visualize risk hierarchies.
+
    聚合計算各分層組別的條件觀測比例（$\hat{p}$），並利用**多維度矩陣熱圖**直觀呈現風險強度排序。
    
 3. **Inference Method / 推論統計方法:** Executed three independent asymptotic **Two-Proportion z-tests**. We calculated the point estimates, standard errors (SE), Z-statistics, exact p-values, and **95% Confidence Intervals (CI)** to evaluate population-level significance.
+
    跨三個核心維度執行獨立的**漸進式雙比例 z 檢定**。我們計算了點估計值、標準誤差（SE）、Z 統計量、精確 p 值與 **95% 信賴區間（CI）**，以評估母體層級的顯著性。
 
 ---
