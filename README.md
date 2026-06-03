@@ -63,7 +63,7 @@ We developed a rigorous data science and statistical pipeline:
    
 2. **Exploratory Data Analysis / 探索性資料分析:** Aggregated descriptive conditional proportions ($\hat{p}$) and developed a **Multi-Dimensional Matrix Heatmap** to visualize risk hierarchies.
 
-   聚合計算各分層組別的條件觀測比例（$\hat{p}$），並利用**多維度矩陣熱圖**直觀呈現風險強度排序。
+   聚合計算各分層組別的條件觀測比例，並利用**多維度矩陣熱圖**直觀呈現風險強度排序。
    
 3. **Inference Method / 推論統計方法:** Executed three independent asymptotic **Two-Proportion z-tests**. We calculated the point estimates, standard errors (SE), Z-statistics, exact p-values, and **95% Confidence Intervals (CI)** to evaluate population-level significance.
 
