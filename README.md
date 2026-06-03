@@ -81,6 +81,7 @@ We developed a rigorous data science and statistical pipeline:
    雙比例 z 檢定證實女性青少年的悲傷盛行率（**32.21%**）顯著高於男性（**19.51%**），淨落差達 **-12.70%**（$Z = -13.98, p < 0.001$）。95% 信賴區間（**$[-14.45\%, -10.96\%]$**）完全排除零點，說明此分歧在母體中極其穩固，支持青春期情感脆弱性理論。
    
 3. **Behavioral Risk Co-morbidity / 風險行為高度共病:** Current alcohol users experienced a significantly higher proportion of distress (**34.23%**) compared to non-users (**22.56%**).
+   
    現行有飲酒風險行為的群體（**34.23%**）相較於無飲酒群體（**22.56%**），表現出顯著較高的情感絕望傾向。
    
 4. **Policy Recommendation / 核心政策建議:** Since school environmental safety carries the most critical statistical impact, public health and educational sectors must prioritize resource allocation to constructing a secure, violence-free campus environment to protect youth mental health.
