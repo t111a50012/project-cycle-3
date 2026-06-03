@@ -32,8 +32,10 @@ Our project is based on the CDC's `YRBS_2007.csv` dataset. We selected **Questio
 * **Original Column / 原始欄位:** `SadOrHopeless`
 * **Binary Recoded Variable / 重編碼二元變數:** `Sad_Binary`
   * **1 (Success / Exposed Group):** Students who felt so sad or hopeless almost every day for 2+ weeks in a row that they stopped doing some usual activities (Original code 1).
+    
     **1 (成功 / 暴露組)：** 過去 12 個月內，幾乎天天感到悲傷或絕望且持續 2 週以上，以致停止日常活動者（原始編碼 1）。
   * **0 (Failure / Comparison Group):** Students without these severe feelings (Original code 2).
+    
     **0 (失敗 / 對照組)：** 無上述嚴重悲傷或絕望感者（原始編碼 2）。
 
 ### 2. Grouping Variables (X) / 組別變數
