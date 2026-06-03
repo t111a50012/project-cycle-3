@@ -16,7 +16,6 @@ Our project is based on the CDC's `YRBS_2007.csv` dataset. We selected **Questio
   (多維度族群之青少年悲傷與絕望感比例比較研究)
   
 * **Core Research Question / 核心研究問題:** Do the proportions of students who feel sad or hopeless differ significantly across different youth demographic, safety, and behavioral groups?
-  
   在不同的青少年人口統計、校園安全與行為風險族群中，感到嚴重悲傷或絕望的學生比例是否存在顯著差異？
 
 ---
