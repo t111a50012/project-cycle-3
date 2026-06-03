@@ -3,16 +3,20 @@
 
 ## 👥 Team Information / 小組基本資訊
 * **Group Number / 小組組號:** Group 26 
-* **Members / 成員姓名:** * 111A50012 楊書雅 (Shu-Ya Yang), 113370216 彭佳淳 (Chia-Chun Peng)
+* **Members / 成員姓名:** 111A50012 楊書雅 (Shu-Ya Yang), 113370216 彭佳淳 (Chia-Chun Peng)
 
 ---
 
 ## 🎯 Selected Research Question / 所選的研究問題
 Our project is based on the CDC's `YRBS_2007.csv` dataset. We selected **Question 3** and expanded it into an advanced multi-dimensional framework to analyze adolescent mental health across three independent vectors:
+
 本專案基於美國 CDC 的 `YRBS_2007.csv` 數據集，選擇並深入探討**問題 3**。我們將其擴展為一個進階的多維度分析架構，跨越三個獨立向量來研究青少年的心理健康：
 
-* **Project Title / 專案名稱:** An Advanced Multi-Dimensional Comparison of the Proportions of Sad or Hopeless Feelings Among Adolescents (多維度族群之青少年悲傷與絕望感比例比較研究)
+* **Project Title / 專案名稱:** An Advanced Multi-Dimensional Comparison of the Proportions of Sad or Hopeless Feelings Among Adolescents
+  (多維度族群之青少年悲傷與絕望感比例比較研究)
+  
 * **Core Research Question / 核心研究問題:** Do the proportions of students who feel sad or hopeless differ significantly across different youth demographic, safety, and behavioral groups?
+  
   在不同的青少年人口統計、校園安全與行為風險族群中，感到嚴重悲傷或絕望的學生比例是否存在顯著差異？
 
 ---
