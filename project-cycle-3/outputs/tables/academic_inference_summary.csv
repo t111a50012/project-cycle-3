@@ -1,4 +1,4 @@
 Research Dimension,Group 1 Label,Prop 1 (p1_hat),Group 2 Label,Prop 2 (p2_hat),Difference (p1-p2),Z Statistic,P-Value,95% CI Lower,95% CI Upper
-D1: Biological Sex (Female vs Male),Female,0.1951,Male,0.3221,-0.127,-13.9821,2.0041e-44,-0.1445,-0.1096
-D2: School Safety (Code 2 vs Code 1),1,0.5109,0,0.254,0.2569,9.5657,1.1149e-21,0.1972,0.3165
-D3: Alcohol Use (Code 2 vs Code 1),1,0.3423,0,0.2301,0.1123,11.1147,1.0637e-28,0.0915,0.133
+D1: Biological Sex (Female vs Male),Female,0.3221,Male,0.1951,0.127,13.9821,2.0041e-44,0.1096,0.1445
+D2: School Safety (Binary 1 vs 0),1,0.5109,0,0.254,0.2569,9.5657,1.1149e-21,0.1972,0.3165
+D3: Alcohol Use (Binary 1 vs 0),1,0.3423,0,0.2301,0.1123,11.1147,1.0637e-28,0.0915,0.133

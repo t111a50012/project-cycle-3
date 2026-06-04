@@ -1,7 +1,7 @@
 Research_Dimension,Subgroup,Total_Sample(N),Sad_Count(X),Observed_Proportion(p_hat)
-Dimension 1: Biological Sex,Female,4470,872,0.19507829977628635
-Dimension 1: Biological Sex,Male,4908,1581,0.3221271393643032
-Dimension 2: School Safety,Code 1 (0 Days - Safe),9102,2312,0.25401010766864424
+Dimension 1: Biological Sex,Female,4908,1581,0.3221271393643032
+Dimension 1: Biological Sex,Male,4470,872,0.19507829977628635
 Dimension 2: School Safety,Code 2 (1+ Days - Unsafe),276,141,0.5108695652173914
-Dimension 3: Alcohol Use,Code 1 (0 Days - Non-User),6746,1552,0.23006225911651348
+Dimension 2: School Safety,Code 1 (0 Days - Safe),9102,2312,0.25401010766864424
 Dimension 3: Alcohol Use,Code 2 (1+ Days - User),2632,901,0.3423252279635258
+Dimension 3: Alcohol Use,Code 1 (0 Days - Non-User),6746,1552,0.23006225911651348

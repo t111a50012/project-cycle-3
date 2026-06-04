@@ -17,11 +17,11 @@ PART I: METADATA OVERVIEW & OPERATIONALIZATION PREVALENCE
     Female (Group 1): N = 4,480, p_hat = 32.21%
     Male   (Group 2): N = 4,925, p_hat = 19.51%
   - Stratum 2 (Institutional School Safety):
-    Unsafe (Group High / Code 2): p_hat = 51.09% (1+ Days missed due to safety)
-    Safe   (Group Low  / Code 1): p_hat = 25.40% (0 Days missed)
+    Unsafe (Group High / Binary 1): p_hat = 51.09% (1+ Days missed due to safety)
+    Safe   (Group Low  / Binary 0): p_hat = 25.40% (0 Days missed)
   - Stratum 3 (Risk Alcohol Consumption):
-    Current User (Group High / Code 2): p_hat = 34.23% (1+ Days drank in past month)
-    Non-User     (Group Low  / Code 1): p_hat = 23.01% (0 Days drank)
+    Current User (Group High / Binary 1): p_hat = 34.23% (1+ Days drank in past month)
+    Non-User     (Group Low  / Binary 0): p_hat = 23.01% (0 Days drank)
 
 --------------------------------------------------------------------------------
 PART II: TWO-PROPORTION ASYMPTOTIC STATISTICAL INFERENCE MATRIX
@@ -36,12 +36,13 @@ systematically rejecting the null hypotheses (H0).
      net risk elevation in affective distress. This domain represents the most 
      powerful external environmental predictor within the empirical model.
 
-2. Biological Sex Divergence (Dimension 1)
-   - Metrics: Delta p_hat = -0.1270 | Z-Statistic = -13.9821 | P-Value = 2.0041e-44
-   - 95% Confidence Interval: [-0.1445, -0.1096]
+2. Biological Sex Divergence (Dimension 1) — [📊 RECODING PROTOCOL ALIGNED]
+   - Metrics: Delta p_hat = 0.1270 | Z-Statistic = 13.9821 | P-Value = 2.0041e-44
+   - 95% Confidence Interval: [0.1096, 0.1445]
    - Scientific Finding: Female adolescents manifest a stable, robust 12.70% 
-     baseline risk premium over males. The 95% CI completely occupies the negative 
-     domain, validating pubertal vulnerability paradigms in developmental psychology.
+     baseline risk premium over males (p_female - p_male). The 95% CI completely 
+     occupies the positive domain, validating pubertal vulnerability paradigms 
+     and gender-specific risk elevation in developmental psychology.
 
 3. Risk Alcohol Consumption Co-occurrence (Dimension 3)
    - Metrics: Delta p_hat = 0.1123 | Z-Statistic = 11.1147 | P-Value = 1.0637e-28
